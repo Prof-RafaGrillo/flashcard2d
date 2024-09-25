@@ -6,5 +6,7 @@
 .cartao{
     background-color: aqua;
     color: red;
-    border-radius: 20px;
+    border-radius: 20px;    
+    height:20rem;
+
 }
