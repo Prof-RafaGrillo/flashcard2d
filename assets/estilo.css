@@ -8,5 +8,6 @@
     color: red;
     border-radius: 20px;    
     height:20rem;
+    flex-grow: 1;
 
 }
