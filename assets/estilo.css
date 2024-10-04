@@ -21,8 +21,9 @@
 
 }
 
-.cartao:hover{
+.cartao:hover .cartao--conteudo{
     background-color: brown;
+    transform: rotateY(180deg);
 }
 .cartao--resposta{
     font-size: 20px;
