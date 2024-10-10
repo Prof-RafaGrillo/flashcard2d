@@ -37,6 +37,9 @@
 .cartao--pergunta, .cartao--resposta{
     backface-visibility: hidden;
 }
+.cartao--resposta{
+    transform: rotateY(180deg);
+}
 
 
 footer{
