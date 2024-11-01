@@ -14,3 +14,4 @@ function criarCartao(pergunta, resposta){
 }
 
 criarCartao(1,2)
+criarCartao(1,2)
