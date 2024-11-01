@@ -5,8 +5,8 @@ function criarCartao(pergunta, resposta){
 
     cartao.innerHTML = `
         <div class="cartao--conteudo">
-                    <div class="cartao--pergunta"><p>Quando foi lançado o One Piece?</p></div>
-                    <div class="cartao--resposta"><p>O One Piece foi lançado em 1997<p></p></div>
+                    <div class="cartao--pergunta"><p>${pergunta}</p></div>
+                    <div class="cartao--resposta"><p>${resposta}</p></div>
                 </div>
     `
 
@@ -14,4 +14,4 @@ function criarCartao(pergunta, resposta){
 }
 
 criarCartao(1,2)
-criarCartao(1,2)
+criarCartao("perguntaX","respostaX")
