@@ -13,5 +13,3 @@ function criarCartao(pergunta, resposta){
     conteudo.appendChild(cartao)
 }
 
-criarCartao(1,2)
-criarCartao("perguntaX","respostaX")
